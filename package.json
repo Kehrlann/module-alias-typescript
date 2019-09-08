@@ -1,0 +1,26 @@
+{
+  "name": "module-alias-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile-run": "tsc && cd lib && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kehrlann/module-alias-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kehrlann/module-alias-typescript/issues"
+  },
+  "homepage": "https://github.com/Kehrlann/module-alias-typescript#readme",
+  "dependencies": {
+    "module-alias": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.4",
+    "typescript": "^3.6.2"
+  }
+}

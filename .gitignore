@@ -1,3 +1,6 @@
+# Repo-specific
+lib
+
 # Logs
 logs
 *.log
